@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋  <br><br>- 🔭 I’m currently working on a full-stack finance app with Node.js, React, and Firebase.  <br>- 🤝 I’m looking to collaborate with developers who love building cool, interactive web apps.  <br>- 🌱 I’m currently learning TypeScript, Next.js, and advanced database design.  <br>- 💬 Ask me about JavaScript tricks, REST APIs, or setting up Firebase auth.  <br>- ⚡ Fun fact: I once built a to-do list app just to manage all my other side projects.  <br>
+### Hi there 👋  <br><br>- 🔭 I’m currently working on a full-stack finance app with Node.js, React, MongoDb and Firebase that intergrates Gemini Ai api to help in financial advice.  <br>- 🤝 I’m looking to collaborate with developers who love building cool, interactive web apps.  <br>- 🌱 I’m currently learning TypeScript,NodeJs  and advanced database design.  <br>- 💬 Ask me about JavaScript tricks, REST APIs, or setting up Firebase auth including using PassportJs as a middleware for my Oauth20 .  <br>- ⚡ Fun fact: I once built a bucket list app to record all  the projects I had in mind .  <br>
 
 
 # 💻 Tech Stack:
